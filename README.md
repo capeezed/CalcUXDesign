@@ -1,3 +1,4 @@
 # CalcUXDesign
 
-![alt text](/images/image.png)
+Segunda execução do código refatorado
+![alt text](/images/2.png)
